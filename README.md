@@ -27,7 +27,7 @@ It is built with Next.js API routes, Prisma ORM, and MySQL, providing efficient 
 - Backend Framework: Next.js API Routes
 - Database: MySQL
 - ORM: Prisma
-- Authentication: Custom with OTP support
+- Authentication: JWT tokens with custom login, registration and OTP function
 
 ## Project Structure
 
