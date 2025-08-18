@@ -7,6 +7,7 @@ It is built with Next.js API routes, Prisma ORM, and MySQL, providing efficient 
 
 - API routes built with Next.js to handle:
   - Customer login and registration
+  - JWT token-based authentication
   - User OTP functionality
   - Cart management
   - Invoices
