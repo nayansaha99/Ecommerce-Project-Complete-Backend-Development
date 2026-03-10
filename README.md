@@ -32,3 +32,4 @@ It is built with Next.js API routes, Prisma ORM, and MySQL, providing efficient 
 
 ## Project Structure
 
+![Project Preview](./project_img/images/project.png)

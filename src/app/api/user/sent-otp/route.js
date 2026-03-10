@@ -18,7 +18,7 @@ export async function GET(req,res){
             create: {email:email,otp:code}
         });   
 
-
+       
         return  NextResponse.json({status:"success",data:result})
 
     }catch (e) {
